@@ -1,2 +1,7 @@
 #summary There are methods to produce xz- and tz-plots.
 
+The following maps can be produced using the methods in the module tzWRF.py anad xzWRF.py:
+
+ # A tz-plot showing cloud water and snow (or rain).<img src="http://pywrfplot.googlecode.com/files/tzplot.png" alt="Logo"/>
+ # A xz-plot showing cloud water (red), snow (blue) and rain (green).<img src="http://pywrfplot.googlecode.com/files/xzplot.png" alt="Logo"/>
+ 
