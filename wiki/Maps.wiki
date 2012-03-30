@@ -2,19 +2,7 @@
 
 The following maps can be produced using the methods in the module mapWRF.plot:
 
- # A map of the outer domain showing the inner domain(s).
-
-<img src="http://pywrfplot.googlecode.com/files/domains.png" alt="Logo"/>
-
- # A map showing the elevation of terrain, with contour lines for surface presure and temperature.
-
-'<img src="http://pywrfplot.googlecode.com/files/terrain.png" alt="Logo"/>'
-
- # A map showing cloud coverage with cloud water content in the column.
-
-'<img src="http://pywrfplot.googlecode.com/files/clouds.png" alt="Logo"/>'
-
- # A map showing wind barbs for 10-meter wind.
-
-
-'<img src="http://pywrfplot.googlecode.com/files/wind.png" alt="Logo"/>'
+ # A map of the outer domain showing the inner domain(s).<img src="http://pywrfplot.googlecode.com/files/domains.png" alt="Logo"/>
+ # A map showing the elevation of terrain, with contour lines for surface presure and temperature.<img src="http://pywrfplot.googlecode.com/files/terrain.png" alt="Logo"/>
+ # A map showing cloud coverage with cloud water content in the column.<img src="http://pywrfplot.googlecode.com/files/clouds.png" alt="Logo"/>
+ # A map showing wind barbs for 10-meter wind.<img src="http://pywrfplot.googlecode.com/files/wind.png" alt="Logo"/>
