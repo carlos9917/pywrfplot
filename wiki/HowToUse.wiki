@@ -2,6 +2,8 @@
 
 Download the code using svn, or grab the Python code by browsing under the source tab.
 
+You must have output files from WRF available in some directory on your computer. For some plots, output files from WPS (met-files) are also useful.
+
 To avois endless parameter lists, most settings are defined in the module pywrfplotParams. You must change the settings here.
 
 Make you own Python file and use the methods in the modules. For instance:
