@@ -4,6 +4,8 @@ The following maps can be produced:
 
 # A map of the outer domain showing the inner domain(s).
 
+http://code.google.com/p/pywrfplot/wiki/domains.png
+
 # A map showing the elevation of terrain, with contour lines for surface presure and temperature.
 
 # A map showing cloud coverage with cloud water content in the column.
