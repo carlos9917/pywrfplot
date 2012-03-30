@@ -1,0 +1,16 @@
+#summary Plotting WRF-data on maps
+
+= Introduction =
+
+The following maps can be produced:
+
+# A map of the outer domain showing the inner domain(s).
+
+# A map showing the elevation of terrain, with contour lines for surface presure and temperature.
+
+# A map showing cloud coverage with cloud water content in the column.
+
+# A map showing wind barbs for 10-meter wind.
+
+
+= Details =
