@@ -1,0 +1,13 @@
+#summary Instructions for how to use the code.
+
+Download the code using svn, or grab the Python code by browing under the source tab.
+
+To avois endless parameter lists, most settings are defined in the module pywrfplotParams. You must change the settings here.
+
+Make you own Python file and use the methods in the modules. For instance:
+
+mapWRF.mapDomains()
+
+or 
+
+mapWRF.mapWind(nest=3,time=45)
