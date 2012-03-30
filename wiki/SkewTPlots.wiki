@@ -1,1 +1,5 @@
 #summary skewT-lnp-plots
+
+The following plot can be produced using the methods in the module skewT.py:
+
+<img src="http://pywrfplot.googlecode.com/files/skewt.png" alt="Logo"/>
