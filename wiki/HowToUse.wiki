@@ -4,9 +4,9 @@ Download the code using svn, the download-tab, or grab the Python code by browsi
 
 You must have output files in the nc-format from WRF available in some directory on your computer. For some plots, output files from WPS (met-files) are also useful.
 
-To avoid endless parameter lists, most settings are defined in the module pywrfplotParams. You must change the settings here.
+To avoid endless parameter lists, most settings are defined in the module [http://code.google.com/p/pywrfplot/source/browse/trunk/pywrfplotParams.py pywrfplotParams]. You must change the settings here.
 
-Make you own Python file and use the methods in the modules. For instance:
+Make you own Python ([http://code.google.com/p/pywrfplot/source/browse/trunk/example.py Example]) file and use the methods in the modules. For instance:
 
 mapWRF.mapDomains()
 
