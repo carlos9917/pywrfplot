@@ -1,6 +1,6 @@
 #summary Instructions for how to use the code.
 
-Download the code using svn, or grab the Python code by browsing under the source tab (look in the trunk-folder for the latest version).
+Download the code using svn, the download-tab, or grab the Python code by browsing under the source tab (look in the trunk-folder for the latest version).
 
 You must have output files in the nc-format from WRF available in some directory on your computer. For some plots, output files from WPS (met-files) are also useful.
 
@@ -14,4 +14,4 @@ or
 
 mapWRF.mapWind(nest=3,time=45)
 
-With pywrfplot you can make Maps, SkewTPlots, and XzAndTzPlots.
+With pywrfplot you can make [Maps], [SkewTPlots], and XzAndTzPlots.
