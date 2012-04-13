@@ -1,10 +1,10 @@
 #summary Plotting WRF-data on maps
 
-The running time is much longer for high resolution map plots. Adjust this using the variable mapResolution in pywrfplotParams.py.
+The maps belowcan be produced using the methods in the module [http://code.google.com/p/pywrfplot/source/browse/trunk/mapWRF.py mapWRF.py].
+
+The running time is much longer for high resolution map plots. Adjust this using the variable mapResolution in [http://code.google.com/p/pywrfplot/source/browse/trunk/pywrfplotParams.py pywrfplotParams.py].
 
 The maps are produced to have the same projection that is used in WRF, but only the Lambert projection is currently supported. If your using another projection you can try to adjust the method mapWRF._getMap.
-
-The following maps can be produced using the methods in the module mapWRF.plot:
 
  # A map of the outer domain showing the inner domain(s).<img src="http://pywrfplot.googlecode.com/files/domains.png" alt="Logo"/>
  # A map showing the elevation of terrain, with contour lines for surface presure and temperature.<img src="http://pywrfplot.googlecode.com/files/terrain.png" alt="Logo"/>
