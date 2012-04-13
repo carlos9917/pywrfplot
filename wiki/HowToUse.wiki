@@ -8,10 +8,10 @@ To avoid endless parameter lists, most settings are defined in the module [http:
 
 Make you own Python ([http://code.google.com/p/pywrfplot/source/browse/trunk/example.py Example]) file and use the methods in the modules. For instance:
 
-mapWRF.mapDomains()
+{{{mapWRF.mapDomains()}}}
 
 or 
 
-mapWRF.mapWind(nest=3,time=45)
+{{{mapWRF.mapWind(nest=3,time=45)}}}
 
 With pywrfplot you can make [Maps], [SkewTPlots], and XzAndTzPlots.
