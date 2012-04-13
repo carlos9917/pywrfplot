@@ -1,6 +1,6 @@
 #summary Plotting WRF-data on maps
 
-The maps belowcan be produced using the methods in the module [http://code.google.com/p/pywrfplot/source/browse/trunk/mapWRF.py mapWRF.py].
+The maps below can be produced using the methods in the module [http://code.google.com/p/pywrfplot/source/browse/trunk/mapWRF.py mapWRF.py].
 
 The running time is much longer for high resolution map plots. Adjust this using the variable mapResolution in [http://code.google.com/p/pywrfplot/source/browse/trunk/pywrfplotParams.py pywrfplotParams.py].
 
