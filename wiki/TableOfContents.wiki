@@ -1,4 +1,4 @@
  * [HowToUse How to use pywrfplot]
  * [Maps Plotting maps]
- * [SkewT Making skewT-plots]
+ * [SkewTPlots Making skewT-plots]
  * [XzAndTzPlots Making xz- or tz-plots]
