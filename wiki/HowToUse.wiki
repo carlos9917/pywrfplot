@@ -14,4 +14,4 @@ or
 
 mapWRF.mapWind(nest=3,time=45)
 
-With pywrfplot you can make Maps, SkewTPlots, and TzAndXzPlots.
+With pywrfplot you can make Maps, SkewTPlots, and XzAndTzPlots.
