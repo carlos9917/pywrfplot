@@ -7,7 +7,7 @@ You must have output files in the nc-format from WRF available in some directory
 
 To avoid endless parameter lists, most settings are defined in the module [http://code.google.com/p/pywrfplot/source/browse/trunk/pywrfplotParams.py pywrfplotParams]. You must change these settings before you can make any plots.
 
-Make you own Python ([http://code.google.com/p/pywrfplot/source/browse/trunk/example.py Example]) file and use the methods in the modules. For instance:
+Make you own Python file  ([http://code.google.com/p/pywrfplot/source/browse/trunk/example.py Example]) and use the methods in the modules. For instance:
 
 {{{mapWRF.mapDomains()}}}
 
