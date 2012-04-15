@@ -1,4 +1,3 @@
-#labels Featured
  * [HowToUse How to use pywrfplot]
  * [Maps Plotting maps]
  * [SkewTPlots Making skewT-plots]
