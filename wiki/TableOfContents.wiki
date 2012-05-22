@@ -2,3 +2,4 @@
  * [Maps Plotting maps]
  * [SkewTPlots Making skewT-plots]
  * [XzAndTzPlots Making xz- or tz-plots]
+ * [InstallationTips Installation tips]
