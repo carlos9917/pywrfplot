@@ -1,4 +1,4 @@
-#summary Installtion tips
+#summary Installation tips
 
 pywrfplot itself isn't really installed since you need to work with the code. So just download/copy all the source files to some catalog on your computer and run [http://code.google.com/p/pywrfplot/source/browse/trunk/example.py example.py].
 
