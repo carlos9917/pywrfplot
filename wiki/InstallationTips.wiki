@@ -10,6 +10,6 @@ However, the dependencies must be available in your Python runtime environment:
   * [http://code.google.com/p/netcdf4-python/ NetCDF4]
 
 
-*Windows:* Install [http://code.google.com/p/pythonxy/ PythonXY] first - this is a great Python distribution for Windows that includes a lot of useful features. If I remember correctly you may have to install [http://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/ Basemap] in addition, look for the Windows installation file.
+*Windows:* Install [http://code.google.com/p/pythonxy/ Python(x,y)] first - this is a great Python distribution for Windows that includes a lot of useful features. If I remember correctly you may have to install [http://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/ Basemap] in addition, look for the Windows installation file.
 
 *Linux:* Python is usually distributed with Linux, and most of the dependecies are easy to install in addition. However, I'm still struggling with Basemap. Will update when I've figured out how to do it.
