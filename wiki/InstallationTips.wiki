@@ -1,6 +1,6 @@
 #summary Installtion tips
 
-PyWRFPlot itself isn't really installed since you need to work with the code. So just copy it to some catalog on your computer and run [http://code.google.com/p/pywrfplot/source/browse/trunk/example.py example.py].
+PyWRFPlot itself isn't really installed since you need to work with the code. So just download/copy all the source files to some catalog on your computer and run [http://code.google.com/p/pywrfplot/source/browse/trunk/example.py example.py].
 
 However the dependencies must be available in your Python runtime environment:
   * [http://www.python.org/ Python 2.x]
